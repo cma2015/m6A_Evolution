@@ -1,9 +1,9 @@
 # m6A_Evolution
-A bioinformatics pipeline for the evolution analysis of m<sup>6</sup>A in plants ([Miao et al. Molecular Biology and Evolution]())
+A bioinformatics pipeline for the evolution analysis of m<sup>6</sup>A in plants ([Miao *et al.* Molecular Biology and Evolution]())
 
 <div align="center"><img src="figure7.png" width = "60%" alt="" /></div>
 
-<div align="center">Graphic illustration of the evolutionary implications of m<sup>6</sup>A methylome in plants</div>
+<div align="center"><b>Graphic illustration of the evolutionary implications of m<sup>6</sup>A methylome in plants</b></div>
 
 ### Directory structure
 
