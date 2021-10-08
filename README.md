@@ -3,7 +3,7 @@ A bioinformatics pipeline for the evolution analysis of m<sup>6</sup>A in plants
 
 <div align="center"><img src="figure7.png" width = "60%" alt="" /></div>
 
-<center>Graphic illustration of the evolutionary implications of m<sup>6</sup>A methylome in plants<center/>
+<div align="center">Graphic illustration of the evolutionary implications of m<sup>6</sup>A methylome in plants<div/>
 
 # Directory structure
 
@@ -55,4 +55,5 @@ A bioinformatics pipeline for the evolution analysis of m<sup>6</sup>A in plants
 
 ## Citation
 
-Zhenyan Miao, Ting Zhang, Bin Xie, Yuhong Qi , Chuang Ma. Evolutionary implications of the RNA *N* <sup>6</sup>-methyladenosine methylome in plants. Molecular Biology and Evolution (2021) (Accepted)
+Zhenyan Miao, Ting Zhang, Bin Xie, Yuhong Qi , Chuang Ma. Evolutionary implications of the RNA *N*<sup>6</sup>-methyladenosine methylome in plants. Molecular Biology and Evolution (2021) (Accepted)
+
