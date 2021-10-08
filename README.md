@@ -3,7 +3,7 @@ A bioinformatics pipeline for the evolution analysis of m<sup>6</sup>A in plants
 
 <div align="center"><img src="figure7.png" width = "60%" alt="" /></div>
 
-<center><b>Graphic illustration of the evolutionary implications of m<sup>6</sup>A methylome in plants<b/><center/>
+<center>Graphic illustration of the evolutionary implications of m<sup>6</sup>A methylome in plants<center/>
 
 # Directory structure
 
