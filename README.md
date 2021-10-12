@@ -55,5 +55,5 @@ A bioinformatics pipeline for the evolution analysis of m<sup>6</sup>A in plants
 
 ### Citation
 
-Zhenyan Miao, Ting Zhang, Bin Xie, Yuhong Qi, Chuang Ma, Evolutionary implications of the RNA N6-methyladenosine methylome in plants, Molecular Biology and Evolution, 2021;, msab299, https://doi.org/10.1093/molbev/msab299
+Zhenyan Miao, Ting Zhang, Bin Xie, Yuhong Qi, Chuang Ma, Evolutionary implications of the RNA N6-methyladenosine methylome in plants, *Molecular Biology and Evolution*, 2021, msab299, https://doi.org/10.1093/molbev/msab299
 
